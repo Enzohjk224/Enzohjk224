@@ -4,13 +4,12 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://programmerhumor.io/wp-content/uploads/2024/05/programmerhumor-io-stackoverflow-memes-programming-memes-d03f69dffdf06a8.jpe"  />
+
 
 ###
 
 <h1 data-importer="text" align="left">Um pouco de mim:</h1>
 
-###
 
 <p data-importer="text" align="left">Aprediz Digital Solutions - Bosch ETS</p>
 <p data-importer="text" align="left">Técnico em Desenvolvimento de Sistemas - ETEC Hortolândia</p>
