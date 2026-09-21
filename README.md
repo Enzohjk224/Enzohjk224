@@ -56,5 +56,6 @@
 
 ###
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/Enzohjk224/Enzohjk224/snake-output/snake.svg" alt="Snake animation" />
 
 ###
