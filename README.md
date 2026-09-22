@@ -57,7 +57,7 @@
 
 <blockquote>
 <p><i>
-“Sometimes there is a silver bullet for boosting software
+“Sometimes there is a silver bullet for boosting software<br>
 engineering productivity. But you need to shoot the right person.”
 </i></p>
 
