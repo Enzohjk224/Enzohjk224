@@ -1,13 +1,8 @@
-<table widht ="100%">
-<tr>
-<td width="%100">
-      
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&size=30&letterSpacing=0.2rem&pause=1000&color=5842F7&background=5B5DFF00&center=true&vCenter=true&width=435&separator=%3C&lines=Enzo+Hipolito+David%3CSystem.out.printf%28%22Ol%C3%A1%22%29;%3CHello+World!)](https://git.io/typing-svg)
 
-</td>
-  
-</tr>
-</table>
+</div>
 
 
 <h1 data-importer="text" align="left">Um pouco sobre mim:</h1>
