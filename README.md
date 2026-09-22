@@ -1,6 +1,6 @@
 <table widht ="100%">
 <tr>
-<td width="%60">
+<td width="%100">
       
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&size=35&letterSpacing=0.2rem&pause=1000&color=5842F7&background=5B5DFF00&center=true&vCenter=true&width=435&lines=Enzo+Hipolito+David)](https://git.io/typing-svg)
 
