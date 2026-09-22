@@ -10,7 +10,7 @@
 </table>
 
 
-<h2 data-importer="text" align="left">Um pouco sobre mim:</h2>
+<h1 data-importer="text" align="left">Um pouco sobre mim:</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">📸TECH SKILLS</h2>
+<h1 data-importer="text" align="left">📸TECH SKILLS</h1>
 
 ###
 
