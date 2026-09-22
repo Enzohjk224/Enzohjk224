@@ -47,7 +47,7 @@
 
 ###
 
-### ✍️ Random Dev Quote
+### ✍️ Citação Dev Aleatória 
 
 <p align="center">
   <img src="./imagens/quote.png" width="650">
