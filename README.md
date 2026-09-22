@@ -53,19 +53,4 @@
 ###
 
 ### ✍️ Random Dev Quote
-<div align="center">
 
-<table>
-<tr>
-<td width="500">
-
-> *“Sometimes there is a silver bullet for boosting software
-> engineering productivity. But you need to shoot the right person.”*
->
-> <p align="right">— Michael Stal</p>
-
-</td>
-</tr>
-</table>
-
-</div>
