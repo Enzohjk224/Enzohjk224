@@ -55,13 +55,17 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-<blockquote>
-<p><i>
-“Sometimes there is a silver bullet for boosting software<br>
-engineering productivity. But you need to shoot the right person.”
-</i></p>
+<table>
+<tr>
+<td width="500">
 
-<p align="right"><i>— Michael Stal</i></p>
-</blockquote>
+> *“Sometimes there is a silver bullet for boosting software
+> engineering productivity. But you need to shoot the right person.”*
+>
+> <p align="right">— Michael Stal</p>
+
+</td>
+</tr>
+</table>
 
 </div>
