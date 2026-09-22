@@ -55,5 +55,5 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="./imagens/citacao.png" width="650">
+  <img src="./imagens/quote.png" width="650">
 </p>
