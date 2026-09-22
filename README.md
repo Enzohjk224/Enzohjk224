@@ -8,7 +8,7 @@
     <td width="%40"></td>
   </tr>
 </table>
-###
+
 
 <h2 data-importer="text" align="left">Um pouco sobre mim:</h2>
 
