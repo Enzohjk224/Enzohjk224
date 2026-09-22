@@ -14,11 +14,11 @@
 
 ###
 
-<p data-importer="text" align="left">✨ <br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">👾 Aprendiz Digital Solutions - Bosch ETS<br>🎓 Técnico em Desenvolvimento de Sistemas - ETEC Hortolândia<br>🎯 Cursando Analise e Desenvolvimento de Sistemas - IFSP Hortolândia<br>🎖 Buscando evoluir minhas habilidades para aplicalas no meu dia a dia</p>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">📸TECH SKILLS</h2>
 
 ###
 
