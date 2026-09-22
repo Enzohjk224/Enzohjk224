@@ -1,5 +1,11 @@
-<h1 data-importer="text" align="left">Enzo Hipolito David</h1>
-
+<table>
+  <tr>
+    <td width="%60">
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&size=35&letterSpacing=0.2rem&pause=1000&color=5842F7&background=5B5DFF00&center=true&vCenter=true&width=435&lines=Enzo+Hipolito+David)](https://git.io/typing-svg)
+    </td>
+    <td width="%40"></td>
+  </tr>
+</table>
 ###
 
 <h2 data-importer="text" align="left">Um pouco sobre mim:</h2>
